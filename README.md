@@ -25,6 +25,6 @@ I work with AI as a co-builder: I own the problem, the product decisions and the
 
 Problem → idea → prototype → MVP → usable product. I care about solving a real user problem, shipping early, and keeping the deterministic parts deterministic: AI explains and assists, tests and rules decide.
 
-**Day to day:** product discovery, roadmaps, backlog and UAT for a high-traffic e-commerce site.
-**Building with:** TypeScript, React, Next.js, Node.js, Tailwind, Prisma, PostgreSQL, Playwright, plus Claude, OpenAI and Gemini APIs.
-**Interested in:** agentic workflows, AI developer tooling, e-commerce conversion, fintech decision support, local-first and privacy-respecting AI.
+- **Day to day:** product discovery, roadmaps, backlog and UAT for a high-traffic e-commerce site.
+- **Building with:** TypeScript, React, Next.js, Node.js, Tailwind, Prisma, PostgreSQL, Playwright, plus Claude, OpenAI and Gemini APIs.
+- **Interested in:** agentic workflows, AI developer tooling, e-commerce conversion, fintech decision support, local-first and privacy-respecting AI.
