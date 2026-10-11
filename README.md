@@ -4,6 +4,8 @@ E-commerce team lead and product owner. I build open-source tools for AI coding 
 
 I work with AI as a co-builder: I own the problem, the product decisions and the review, and agents like Claude Code and Codex do much of the typing. You will see Claude as a co-author on many of my commits; that is on purpose.
 
+<a href="https://github.com/Tngc93/agent-guard"><img src="assets/terminal-demo.svg" alt="agent-guard blocking an AI agent's destructive commands in a terminal" width="100%"></a>
+
 #### Open-source tools
 
 | Project | What it does |
