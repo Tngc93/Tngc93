@@ -12,6 +12,7 @@ I work with AI as a co-builder: I own the problem, the product decisions and the
 | --- | --- |
 | [**agent-guard**](https://github.com/Tngc93/agent-guard) | Guard rails for Claude Code and Codex. Parses what an agent is about to run and blocks destructive commands, secret leaks and self-disabling edits. Installs as a plugin. |
 | [**universal-llm-client**](https://github.com/Tngc93/universal-llm-client) | One zero-dependency JavaScript client for 12 LLM providers, with fallback chains, retries, structured JSON, streaming and an offline mock. |
+| [**repo-onboarding**](https://github.com/Tngc93/repo-onboarding) | Writes the AGENTS.md and CLAUDE.md that tell coding agents how a repository works, from what the repo actually contains, and fails CI when they drift. |
 | [**claude-codex-agent-library**](https://github.com/Tngc93/claude-codex-agent-library) | Selective agent routing for Claude Code and Codex: one router skill, 269 specialist profiles, loaded only when they help. |
 | [**claude-obsidian-second-brain**](https://github.com/Tngc93/claude-obsidian-second-brain) | A template that turns Claude Code and Obsidian into a self-maintaining personal wiki. |
 
